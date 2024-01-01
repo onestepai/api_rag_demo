@@ -8,5 +8,5 @@ Many systems provide various APIs, and some APIs can add, obtain, update or dele
 ## api_rag_demo
 This a demo service for called by api_rag service. Please find detail info in project 
 
-[API RAG]([https://github.com/onestepai/api_rag_demo](https://github.com/onestepai/api_rag)) 
+https://github.com/onestepai/api_rag
 
