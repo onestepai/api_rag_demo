@@ -39,7 +39,7 @@ azure:
 domain: ${DOMAIN:dev}
 
 leaf-server:
-  address: ${LEAF_SERVER_ADDRESS:http://139.155.250.100:8080/api/snowflake/get/}
+  address: ${LEAF_SERVER_ADDRESS:}
 
 management:
   health:
